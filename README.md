@@ -1,2 +1,2 @@
-# Flight-hunter-s-Scope
+# Flight hunter's Scope
 THIS REPO IS UNDER CONSTRUCTION
